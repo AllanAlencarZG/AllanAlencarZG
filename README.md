@@ -1,5 +1,3 @@
-# I'm Allan!
-
 ## Contact
 
 <div>
