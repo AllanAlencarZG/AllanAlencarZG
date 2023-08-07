@@ -7,4 +7,4 @@
 </div>
 
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://github.com/AllanAlencarZG)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,flask)](https://github.com/AllanAlencarZG)
